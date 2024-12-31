@@ -3,7 +3,7 @@
 
 <h1>🛠 About the Project</h1>
 <p>This is a Node.js Boilerplate designed to help developers quickly start backend projects with a clean and scalable architecture. It includes:</p>
-- 🔭TypeScript for type safety and modern JavaScript features.
+<p>- 🔭TypeScript for type safety and modern JavaScript features.</p>
 - 🌱 Pre-configured ESLint, Prettier, and Husky for consistent code quality.
 - 💻 Winston Logger for structured logging.
 - 📰 A Cron Job Utility for scheduling tasks.
