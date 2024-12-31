@@ -88,11 +88,6 @@ JWT_SECRET=your_secret_key
     </tbody>
   </table>
 
-  <h2 style="color: #007acc;">📈 GitHub Stats</h2>
-  <p style="text-align: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=dhinakaran7501&show_icons=true&theme=radical" alt="GitHub Stats" style="max-width: 100%; height: auto;">
-  </p>
-
   <h2 style="color: #007acc;">👨‍💻 Author</h2>
   <p><strong>Dhinakaran R</strong></p>
   <p>
