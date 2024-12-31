@@ -1,13 +1,1 @@
-🌟 Backend Node.js Boilerplate
-A comprehensive Node.js backend boilerplate built with TypeScript for scalability, maintainability, and ease of use. This project is packed with essential tools and configurations to jumpstart your backend development.
-
-src/
-├── config/         # Handles environment variables and database connections
-├── controllers/    # API response logic and data
-├── routes/         # Defines route paths and logic
-├── services/       # Business logic and database interactions
-├── types/          # TypeScript type definitions
-├── utils/          # Reusable helper functions and utilities
-│   ├── helper.ts   # Common helper functions
-│   └── logger.ts   # Winston logger setup
-├── server.ts       # Entry point of the application
+<h1 align="center"> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+to+the+Backend+Node.js+Boilerplate;Scalable+and+Modern+Backend+Starter;Happy+Coding!+🚀&center=true&size=30"> </a> </h1> <p align="center"> <img src="https://komarev.com/ghpvc/?username=dhinakaran7501&color=brightgreen" alt="Profile views"> </p>
