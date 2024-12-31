@@ -1,8 +1,2 @@
-For Cron Job:
-
-| | | | |
-| | | | +---- Day of week (0 - 6) (Sunday = 0)
-| | | +---- Month (1 - 12)
-| | +---- Day of month (1 - 31)
-| +---- Hour (0 - 23)
-+---- Minute (0 - 59)
+🌟 Backend Node.js Boilerplate
+A comprehensive Node.js backend boilerplate built with TypeScript for scalability, maintainability, and ease of use. This project is packed with essential tools and configurations to jumpstart your backend development.
